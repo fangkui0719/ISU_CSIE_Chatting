@@ -4,3 +4,6 @@ The department of Computer Science and Information Engineering in I-Shou Univers
 
 Project of Chatting with Visual Basic.
 
+ChatServer : Server
+
+ChatClient : Client
