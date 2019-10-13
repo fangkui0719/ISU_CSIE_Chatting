@@ -2,7 +2,7 @@
 
 The department of Computer Science and Information Engineering in I-Shou University, Taiwan.
 
-Project of Chatting with Visual Basic.
+Project of chatting with Visual Basic.
 
 ChatServer : Server program
 
