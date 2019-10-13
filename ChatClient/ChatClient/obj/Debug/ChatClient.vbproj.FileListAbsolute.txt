@@ -1,0 +1,11 @@
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.xml
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.fmChatServerSetup.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.fmMain.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.Resources.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.vbproj.GenerateResource.Cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.xml
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

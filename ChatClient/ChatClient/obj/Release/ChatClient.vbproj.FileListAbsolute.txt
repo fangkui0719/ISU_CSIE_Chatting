@@ -1,0 +1,66 @@
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\bin\Release\ChatClient.xml
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.fmChatServerSetup.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.fmMain.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.Resources.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.vbproj.GenerateResource.Cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.xml
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.exe
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.xml
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\bin\Release\ChatClient.exe
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\bin\Release\ChatClient.xml
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ResolveAssemblyReference.cache
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.fmChatServerSetup.resources
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.fmMain.resources
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.Resources.resources
+D:\寫作\Network\書附光碟\ChatClient\ChatClient\obj\Release\ChatClient.vbproj.GenerateResource.Cache
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.exe
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.xml
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\bin\Release\ChatClient.exe
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\bin\Release\ChatClient.xml
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ResolveAssemblyReference.cache
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.fmChatServerSetup.resources
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.fmMain.resources
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.Resources.resources
+D:\Courses\Network\文魁vb2008網路程式設計\VB2008網路程式設計\程式範例\ChatClient\ChatClient\obj\Release\ChatClient.vbproj.GenerateResource.Cache
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.xml
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\bin\Release\ChatClient.xml
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.vbprojResolveAssemblyReference.cache
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.fmChatServerSetup.resources
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.fmMain.resources
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.Resources.resources
+C:\Users\Fangkuei Chiu\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.vbproj.GenerateResource.Cache
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.xml
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\bin\Release\ChatClient.xml
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.vbprojResolveAssemblyReference.cache
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.fmChatServerSetup.resources
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.fmMain.resources
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.Resources.resources
+C:\Users\張智斌\Desktop\ChatClient\ChatClient\obj\Release\ChatClient.vbproj.GenerateResource.Cache
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.xml
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\bin\Release\ChatClient.xml
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.vbprojResolveAssemblyReference.cache
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.fmChatServerSetup.resources
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.fmMain.resources
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.Resources.resources
+C:\Users\coolpc-user\Desktop\group2chatting\ChatClient\ChatClient\obj\Release\ChatClient.vbproj.GenerateResource.Cache
