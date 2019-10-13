@@ -1,3 +1,6 @@
 # Introduction
 
-TCP/IP 網路程式課堂實作。
+The department of Computer Science and Information Engineering in I-Shou University, Taiwan.
+
+Project of Chatting with Visual Basic.
+
