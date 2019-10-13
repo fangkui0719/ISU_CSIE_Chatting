@@ -1,14 +1,14 @@
 # Introduction
 
-The department of Computer Science and Information Engineering in I-Shou University, Taiwan.
+- The department of Computer Science and Information Engineering in I-Shou University, Taiwan.
 
-A course in web programming.
+- A course in web programming.
 
-A project of chatting.
+- A project of chatting.
 
-Program language : Visual Basic
+- Program language : Visual Basic
 
-Compiler : Visual Studio
+- Compiler : Visual Studio
 
 # Program
 
