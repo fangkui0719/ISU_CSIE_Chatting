@@ -4,8 +4,12 @@ The department of Computer Science and Information Engineering in I-Shou Univers
 
 A course in web programming.
 
-Project of chatting ( Visual Basic )
+A project of chatting.
 
-ChatServer : Server program
+- ChatServer : Server program
 
-ChatClient : Client program
+- ChatClient : Client program
+
+Program language : Visual Basic
+
+Compiler : Visual Studio
