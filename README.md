@@ -6,10 +6,12 @@ A course in web programming.
 
 A project of chatting.
 
-- ChatServer : Server program
-
-- ChatClient : Client program
-
 Program language : Visual Basic
 
 Compiler : Visual Studio
+
+# Program
+
+- ChatServer : Server program
+
+- ChatClient : Client program
